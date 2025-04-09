@@ -17,6 +17,11 @@
      git clone https://github.com/Duda-Dz/Infraestrutura-AWS-Ubuntu-DIO.git
      
 ```
+## Para Adicionar Para Execução:
+```sh
+chmod +x script-apache.sh
+
+```
 ### Executando o projeto:
 ```sh
 
@@ -136,6 +141,11 @@ echo "fim...."
 ```sh
 
 #!/bin/bash
+
+```
+## Para Adicionar Para Execução:
+```sh
+chmod +x script-apache.sh
 
 ```
 ### Para executar o script:
