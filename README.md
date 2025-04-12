@@ -43,7 +43,7 @@ ou
 sudo nano iacl.sh
 
 ```
-### OBS: Todo arquivo com Script Shell, tem extenção .sh
+### 📌 OBS: Todo arquivo com Script Shell, tem extenção .sh
 
 ### Realizando o Script Shell dentro do Nano ou Vi:
 ```sh
@@ -137,7 +137,7 @@ chmod 777 /publico
 
 echo "fim...."
 ```
-### OBS: Todo script deve ter:
+### 📌 OBS: Todo script deve ter:
 ```sh
 
 #!/bin/bash
